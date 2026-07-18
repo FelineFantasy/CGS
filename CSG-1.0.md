@@ -52,6 +52,6 @@ This document is part of the **CSG** project and is distributed under the MIT Li
 
 ---
 
-**Author:** FelineFantasy
-**Version:** 1.0
-**Last updated:** 2026-07-19
+- **Author:** FelineFantasy
+- **Version:** 1.0
+- **Last updated:** 2026-07-19
