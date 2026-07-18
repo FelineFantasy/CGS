@@ -1,0 +1,57 @@
+# CSG 1.0 - Code Style Guide
+
+> **Cat Style Guide** - coding standard for projects.
+
+---
+
+## 📁 Project Structure
+- All code must reside within the `src/` or `app/` directory.
+- No code should be placed in the project root.
+
+---
+
+## 📝 Documentation and Comments
+- All code comments and documentation must be written in **English**.
+- Every source file must begin with a **shebang** (`#!/usr/bin/env ...`) followed by a multi-line comment describing the project or module.
+
+---
+
+## 🐍 Naming Conventions
+- **Variables, functions, directories:** `snake_case`
+  Example: `get_data()`, `user_id`
+- **Classes:** `CapitalizedCamelCase`
+  Example: `CatDatabase`
+
+---
+
+## ⚠️ Error Handling
+- The code must **never fail silently**.
+- Critical errors must be caught using:
+  - `try/except` (Python)
+  - `Result` types (Rust)
+  - Equivalent mechanisms in other languages
+- Always display a **clear, user-friendly error message**.
+
+---
+
+## 🧠 Type Annotations
+- Type annotations must be provided for **all function signatures**.
+- Improves code clarity and enables static analysis.
+
+---
+
+## 📦 Commit Messages
+- Must follow **Conventional Commits** standard:
+  - `feat:`, `fix:`, `docs:`, `style:`, `refactor:`, `test:`, `chore:`
+- Must be written exclusively in **English**.
+
+---
+
+## 📄 License
+This document is part of the **CSG** project and is distributed under the MIT License.
+
+---
+
+**Author:** FelineFantasy
+**Version:** 1.0
+**Last updated:** 2026-07-19
