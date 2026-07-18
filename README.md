@@ -1,8 +1,8 @@
 # CSG - Cat Style Guide
 
-**Version:** 1.0
-**Author:** FelineFantasy
-**License:** MIT
+- **Version:** 1.0
+- **Author:** FelineFantasy
+- **License:** MIT
 
 ---
 
