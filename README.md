@@ -1,4 +1,4 @@
-# CSG - Cat Style Guide
+# CSG - Code Style Guide
 
 - **Version:** 1.0
 - **Author:** FelineFantasy
@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Description
-This repository contains the **Cat Style Guide (CSG)** — a coding standard for all FelineFantasy projects.
+This repository contains the **Code Style Guide (CSG)** - a coding standard for projects.
 
 ## 📖 Contents
 - [CSG 1.0](./CSG-1.0.md)
