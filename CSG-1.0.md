@@ -1,6 +1,6 @@
 # CSG 1.0 - Code Style Guide
 
-> **Cat Style Guide** - coding standard for projects.
+> **Code Style Guide** - coding standard for projects.
 
 ---
 
@@ -54,4 +54,4 @@ This document is part of the **CSG** project and is distributed under the MIT Li
 
 - **Author:** FelineFantasy
 - **Version:** 1.0
-- **Last updated:** 2026-07-19
+- **Last updated:** 2026-07-20
