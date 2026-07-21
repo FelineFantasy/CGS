@@ -12,7 +12,12 @@
 
 ## 📝 Documentation and Comments
 - All code comments and documentation must be written in **English**.
-- Every source file must begin with a **shebang** (`#!/usr/bin/env ...`) followed by a multi-line comment describing the project or module.
+- Every **executable script** (e.g., Python, Bash) should begin with a **shebang** (`#!/usr/bin/env ...`) followed by a multi-line comment describing the project or module.
+- **Shebangs are not required** for:
+  - Python modules (e.g., files meant to be imported, not executed directly).
+  - Rust crates.
+  - C/C++ source files.
+  - Any language that does not use shebangs.
 
 ---
 
